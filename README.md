@@ -6,9 +6,9 @@ Para nos organizarmos, usamos a ferramenta Trello como apoio, onde lá montamos 
 
 ALGUMAS FOTOS DE NOSSO SISTEMA:
 ![Foto Tela Dashboard](public/assets/images/Tela-Dash.png)
-![Foto Tela Listagem de Contas add](public/assets/images/Tela-Listagem-add)
-![Foto Tela Listagem de Contas igual](public/assets/images/Tela-Listagem-conta-igual)
-![Foto Tela Agendamento](public/assets/images/Tela-Agendam)
-![Foto Tela Clientes](public/assets/images/Tela-Clientes)
-![Foto Tela add Cliente](public/assets/images/Tela-add-Cliente)
+![Foto Tela Listagem de Contas add](public/assets/images/Tela-Listagem-add.png)
+![Foto Tela Listagem de Contas igual](public/assets/images/Tela-Listagem-conta-igual.png)
+![Foto Tela Agendamento](public/assets/images/Tela-Agendam.png)
+![Foto Tela Clientes](public/assets/images/Tela-Clientes.png)
+![Foto Tela add Cliente](public/assets/images/Tela-add-Cliente.png)
 
