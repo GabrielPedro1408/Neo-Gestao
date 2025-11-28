@@ -1,3 +1,6 @@
-Este sistema, foi um projeto desenvolvido com a intenção de solucionar um problema de gestão de locadoras de quadras de diversas modalidades
-Projeto realizado com as determinadas tecnologias:
-PHP, JavaScript, HTML, CSS/BootsTrap, MySQL, Figma, Trello(Scrum)
+A Neo Gestão é um ERP criado para Empresas de Locações de Quadras Esportivas.
+O Sistema foi desenvolvido com Tecnologias como: PHP, HTML/Bootstrap, CSS, JS e MySQL
+Para nos organizarmos, usamos a ferramenta Trello como apoio, onde lá montamos um SCRUM
+
+ALGUMAS FOTOS DE NOSSO SISTEMA:
+![Foto Dashboard](public/assets/images/TelaDash.png)
